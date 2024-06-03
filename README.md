@@ -114,6 +114,12 @@ Images:
 <img src ="https://github.com/prachimanani01/E-Commerce-App-Exam-01/assets/144036679/77f02f1c-3cae-4b51-b297-92818d127173" width=250px>
 <img src ="https://github.com/prachimanani01/E-Commerce-App-Exam-01/assets/144036679/bc5d3f13-5761-4d9e-a50d-2ddb1b3da566" width=250px>
 
+<br><br>
+
+Video:
+
+https://github.com/prachimanani01/E-Commerce-App-Exam-01/assets/144036679/77a03ecc-22ae-4dae-92fd-51446a9c3cee
+
 
 
 
